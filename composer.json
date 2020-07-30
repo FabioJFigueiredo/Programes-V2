@@ -1,0 +1,16 @@
+{
+	"description": "Loja de games",
+	"name":  "Programes V2",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Fábio Figueiredo",
+			"role": "Development"
+		}
+	],
+	"homepage": "https://programesv2.com.br",
+	"require-dev": {
+		"twbs/bootstrap": "4.1.1",
+		"components/jquery": "1.11.1"
+	}
+}
