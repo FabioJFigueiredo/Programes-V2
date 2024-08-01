@@ -10,7 +10,7 @@
 	],
 	"homepage": "https://programesv2.com.br",
 	"require-dev": {
-		"twbs/bootstrap": "4.1.1",
+		"twbs/bootstrap": "5.0.0",
 		"components/jquery": "1.11.1"
 	}
 }
